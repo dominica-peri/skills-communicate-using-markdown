@@ -4,6 +4,7 @@
 
 ##### H5 Header
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
@@ -18,5 +19,4 @@
 
 
 
-
-Just testing out headers!
+Added a picture of a strange character!
